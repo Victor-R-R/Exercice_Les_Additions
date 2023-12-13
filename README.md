@@ -1,2 +1,2 @@
-# Ejercicio_Las_Sumas
-Ejercicio basico para encontrar un numero sumando otros
+# Exercice_Les_Additions
+Exercice simple pour trouver un nombre en additionnant d'autres nombres.
